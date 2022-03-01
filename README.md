@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @theNuulest a FullStack Developer based in Dakar, Senegal
+- 👀 I’m interested in JS Stack (React, Typescript, GraphQL, Apollo, Nest...)
+- Reach me on [Personal blog](https://thenuulestdev.netlify.app)
