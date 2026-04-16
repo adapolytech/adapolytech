@@ -1,8 +1,8 @@
 # Hellooo! My Name is Adama THIAW. 👋
 
-* 🎨 I'm a **FullStack Developer** at [Paps](https://papslogistics.com)
+* 🎨 I'm a **FullStack Software Developer & Project Lead** at [Paps](https://papslogistics.com)
 * 🎙️ Blog [thenuulestdev](https://thenuulestdev.vercel.app)
-* 👀 I’m interested in NextJS, React and GraphQL
+* 👀 I’m interested in NestJS, Golang, DevOps (Docker, k8s, AWS), React, and GraphQL
 
 ## Reach me on
 
